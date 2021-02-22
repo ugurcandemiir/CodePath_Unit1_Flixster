@@ -19,11 +19,5 @@ In this assignment, we'll be extending our Flicks app to allow users to get more
 
 ### App Walkthrough GIF
 
-
-
 ![](https://i.imgur.com/6lduBa8.gif)
-
-
-
-
 
