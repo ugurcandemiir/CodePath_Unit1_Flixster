@@ -1,4 +1,13 @@
 
+
+# Flix
+
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+In this assignment, we'll be extending our Flicks app to allow users to get more information about a particular movie in a movie details screen. Then, we'll add a tab bar to allow users to view movies in a grid view (Collection View) from different endpoints of the MovieDB API.
+
+---
+
 ## Flix Part 2
 
 ### User Stories
@@ -18,15 +27,6 @@
 
 
 
-
-
-# Flix
-
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-In this assignment, we'll be extending our Flicks app to allow users to get more information about a particular movie in a movie details screen. Then, we'll add a tab bar to allow users to view movies in a grid view (Collection View) from different endpoints of the MovieDB API.
-
----
 
 ## Flix Part 1
 
