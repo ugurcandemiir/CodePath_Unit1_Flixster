@@ -23,7 +23,7 @@ In this assignment, we'll be extending our Flicks app to allow users to get more
 ### App Walkthrough GIF
 
 
-<img src="http://g.recordit.co/UzDloCEjvj.gif" width=250><br>
+<img src="http://g.recordit.co/9M5OMhpv3w.gif" width=250><br>
 
 
 
